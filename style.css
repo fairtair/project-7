@@ -15,11 +15,11 @@ body {
     font-size: 24px;
     font-weight: 600;
     line-height: 150%;
-    color: #8D39C0;
+    color: #e9913a;
 }
 
 .header__title {
-    color: #8D39C0;
+    color: #e9913a;
     font-size: 48px;
     font-weight: 600;
     line-height: 150%;
@@ -127,7 +127,7 @@ body {
 .auth__btn {
     padding: 9px 31px;
     border-radius: 32px;
-    background-color: #8D39C0;
+    background-color: #e9913a;
     color: white;
     border: none;
     width: min-content;
